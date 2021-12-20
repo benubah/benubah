@@ -3,8 +3,7 @@
   - [https://www.finddx.org/covid-19/test-tracker/](https://www.finddx.org/covid-19/test-tracker/)
   - [r-community.org](https://r-community.org)
 - 💬 Developer and maintainer of:
-  - [R-Ladies dashboard](https://benubah.github.io/r-community-explorer/rladies.html) 
-  - [PyLadies dashboard](https://nyc-pyladies.github.io/pyladies-dashboard/pyladies.html)
+  - [R-Ladies dashboard](https://benubah.github.io/r-community-explorer/rladies.html) / [PyLadies dashboard](https://nyc-pyladies.github.io/pyladies-dashboard/pyladies.html)
   - [useR! information board](https://rconf.gitlab.io/userinfoboard/)
   - [R Consortium dashboard](https://rconsortium.github.io/project-analysis/)
 - 🌱 I'm interested in: 
