@@ -12,7 +12,7 @@
 - Google Open Source Programs
   - Google Summer of Code, Student Developer (2017 and 2019)
   - Google Code-In, Mentor (2019)
-  - Google Summer of Code, Mentor (2021)
+  - Google Summer of Code, Mentor (2021, 2022)
   - Google Season of Docs, Technical Writer (2021)
 
 <!--
