@@ -10,10 +10,10 @@
 - 🌱 I'm interested in: 
   - R, Shiny, Front-end development, Applications of R to engineering sciences
 - Google Open Source Programs
-  - Google Summer of Code, Student Developer (2017 and 2019)
+  - Google Summer of Code, Collaborator (2017 and 2019)
   - Google Code-In, Mentor (2019)
   - Google Summer of Code, Mentor (2021, 2022)
-  - Google Season of Docs, Technical Writer (2021)
+  - Google Season of Docs: Technical Writer (2021), Steering Committee (2022)
 
 <!--
 **benubah/benubah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
