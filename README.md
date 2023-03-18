@@ -2,6 +2,7 @@
 - 🔭 I’m currently working on: 
   - [https://www.finddx.org/covid-19/test-tracker/](https://www.finddx.org/covid-19/test-tracker/)
   - [https://www.finddx.org/covid-19/test-directory/](https://www.finddx.org/covid-19/test-directory/)
+  - [R Translation Status Dashboard](https://contributor.r-project.org/translations/)
   - [r-community.org](https://r-community.org)
 - 💬 Developer and maintainer of:
   - [R-Ladies dashboard](https://benubah.github.io/r-community-explorer/rladies.html) / [PyLadies dashboard](https://nyc-pyladies.github.io/pyladies-dashboard/pyladies.html)
