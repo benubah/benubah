@@ -10,7 +10,7 @@
   - [useR! information board](https://rconf.gitlab.io/userinfoboard/)
   - [R Consortium dashboard](https://rconsortium.github.io/project-analysis/)
 - 🌱 I'm interested in: 
-  - R, Shiny, Front-end development, Applications of R to life sciences
+  - R and Python, Shiny, Front-end development, Applications of data science to life sciences
 - Google Open Source Programs
   - Google Summer of Code, Collaborator (2017 and 2019)
   - Google Code-In, Mentor (2019)
