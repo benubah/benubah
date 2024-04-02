@@ -1,15 +1,16 @@
 ### Hi 👋
-- 🔭 I’m currently working on: 
+- 🔭 I work on projects like: 
   - [https://www.finddx.org/covid-19/test-tracker/](https://www.finddx.org/covid-19/test-tracker/)
-  - [https://www.finddx.org/covid-19/test-directory/](https://www.finddx.org/covid-19/test-directory/)
-  - [R Translation Status Dashboard](https://contributor.r-project.org/translations/)
+  - [https://www.finddx.org/tools-and-resources/dxconnect/test-directories/](https://www.finddx.org/tools-and-resources/dxconnect/test-directories/)
+  - [R Translation Status Dashboard](https://contributor.r-project.org/translations-dashboard/)
   - [r-community.org](https://r-community.org)
 - 💬 Developer and maintainer of:
+  - [satRdays Quarto template](https://satrdays.github.io/quarto-satrdays-template/)
   - [R-Ladies dashboard](https://benubah.github.io/r-community-explorer/rladies.html) / [PyLadies dashboard](https://nyc-pyladies.github.io/pyladies-dashboard/pyladies.html)
   - [useR! information board](https://rconf.gitlab.io/userinfoboard/)
   - [R Consortium dashboard](https://rconsortium.github.io/project-analysis/)
 - 🌱 I'm interested in: 
-  - R, Shiny, Front-end development, Applications of R to engineering sciences
+  - R, Shiny, Front-end development, Applications of R to life sciences
 - Google Open Source Programs
   - Google Summer of Code, Collaborator (2017 and 2019)
   - Google Code-In, Mentor (2019)
